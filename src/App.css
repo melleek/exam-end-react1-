@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.aside2 {
+  background-image: url('src/assets/footer/Rectangle 2706 (2).png')
+}
+.aside1 {
+  background-image: url("src/assets/footer/1 501.png")
+}
+.nav {
+  background-image: url("src/assets/home/Rectangle 2715.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sec1 {
+  background-image: url("src/assets/home/Фото 1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sec11 {
+  background: #00000076;
+  background-size: cover;
+}
